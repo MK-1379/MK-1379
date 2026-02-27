@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-"Passionate software developer with experience in Java, HTML, CSS, JS, SQL. I enjoy building scalable and efficient solutions, contributing to open-source projects, and exploring new technologies. Always eager to learn and collaborate on innovative projects."
+Passionate software developer with experience in Java, HTML, CSS, JS, SQL. I enjoy building scalable and efficient solutions, contributing to open-source projects, and exploring new technologies. Always eager to learn and collaborate on innovative projects.
 
 
 # 💻 Tech Stack:
