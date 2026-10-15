@@ -6,10 +6,6 @@ Hi, I'm Mario 👋
 
 2nd-year Web Application Development student from Logroño, Spain, focused on frontend. I enjoy turning designs into polished, accessible interfaces that work on any screen.
 
-- 🎨 **Frontend:** Vue, React, TypeScript and Tailwind CSS
-- ⚙️ **Backend:** Node.js, Express, Prisma and MySQL
-- 🐳 **Tooling:** Docker, GitHub Actions and Vitest
-
 - 🌐 **Portfolio:** [mk-1379.github.io](https://mk-1379.github.io)
 
 # 💻 Tech Stack:
