@@ -9,7 +9,7 @@ Hi, I'm Mario 👋
 
 - 🏆 **[Bracketly](https://bracketly-mk.duckdns.org)**: esports tournament manager with auto-generated brackets, auth and live results (React, Express, Prisma, MySQL, Docker)
 - 📊 **[LoLStats](https://lolstats-mk.duckdns.org)**: League of Legends stats dashboard fed by the Riot API (React, Node.js, MySQL, Docker)
-- 💼 Frontend internship at **Globant GUT** (Vue, Nuxt, TypeScript, Tailwind)
+- 💼 Frontend internship at **[Globant GUT](https://www.globant.com/es/gut-network)** (Vue, Nuxt, TypeScript, Tailwind CSS)
 - 🌐 Portfolio: [mk-1379.github.io](https://mk-1379.github.io)
 
 # 💻 Tech Stack:
