@@ -1,6 +1,6 @@
 ## Mario Díaz González · Junior Frontend Developer
 
-Junior frontend developer and 2nd-year Web Application Development (DAW) student from Logroño, Spain. I build modern, responsive and accessible interfaces with **React, TypeScript and Vue**, and I can connect them to a Node.js backend when needed.
+2nd-year Web Application Development (DAW) student from Logroño, Spain. I build modern, responsive and accessible interfaces with **React, TypeScript and Vue**, and I can connect them to a Node.js backend when needed.
 
 - 💼 Frontend internship at **[Globant GUT](https://www.globant.com/es/gut-network)** (Vue, TypeScript, Tailwind CSS)
 - 🏆 **[Bracketly](https://bracketly-mk.duckdns.org)**: esports tournament manager with an SVG bracket, animations and live results. 69 unit/API tests + 11 Playwright E2E, CI and auto-deploy
