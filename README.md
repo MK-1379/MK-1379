@@ -7,11 +7,22 @@ Junior frontend developer and 2nd-year Web Application Development (DAW) student
 - 💼 Frontend internship at **[Globant GUT](https://www.globant.com/es/gut-network)** (Vue, TypeScript, Tailwind CSS)
 - 🏆 **[Bracketly](https://bracketly-mk.duckdns.org)**: esports tournament manager with an SVG bracket, animations and live results. 69 unit/API tests + 11 Playwright E2E, CI and auto-deploy
 - 📊 **[LoLStats](https://lolstats-mk.duckdns.org)**: League of Legends stats dashboard with charts and per-match scoreboards, synced with the Riot API every 30 minutes
-- 🎵 **[Kumafy](https://github.com/MK-1379/kumafy)**: music player (Electron + web demo) with a Web Audio visualizer and 59 Vitest tests
-- 🌐 Portfolio: [mk-1379.github.io](https://mk-1379.github.io)
-- 🌱 Currently learning: Next.js, Laravel and Angular
+- 🎵 **[Kumafy](https://mk-1379.github.io/kumafy/)**: music player (Electron + web demo) with a Web Audio visualizer and 59 Vitest tests
+- 🌐 **[Portfolio](https://mk-1379.github.io)**: built with Vue, TypeScript and Tailwind CSS, with an interactive 3D desk made in Three.js
+- 📚 Currently learning: Next.js, Laravel and Angular
 
 ## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-![My languages](./profile/top-langs.svg) 
+**Frontend**
+
+![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-%23000000.svg?style=flat&logo=threedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+**Testing & tools**
+
+![Vitest](https://img.shields.io/badge/vitest-%236E9F18.svg?style=flat&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=flat&logo=playwright&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+
+**Backend**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+
+![My languages](./profile/top-langs.svg)
